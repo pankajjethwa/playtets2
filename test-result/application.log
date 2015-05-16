@@ -1,0 +1,5 @@
+16 May 2015 18:10:56,906 INFO  ~ Starting C:\Users\pjethw2\eclipse\workspace\playtets2
+16 May 2015 18:10:57,858 WARN  ~ You're running Play! in DEV mode
+16 May 2015 18:10:57,999 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+16 May 2015 18:11:06,314 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+16 May 2015 18:11:06,343 INFO  ~ Application 'playtets2' is now started !
